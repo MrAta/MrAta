@@ -1,7 +1,7 @@
 ### Hi there 👋
 :scientist: I am <a href="https://mrata.github.io">Ata</a>!
 <br/>
-🔭 I’m currently working on scaling distributed training at <a href="https://github.com/linkedin"> LinkedIn </a>
+🔭 I’m currently working on scaling distributed training at <a href="https://github.com/linkedin"> LinkedIn</a>.
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrata) -->
 
